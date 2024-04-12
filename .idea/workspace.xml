@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd03f829-6b43-4bb8-ae85-cf826b4d68b3" name="Changes" comment="pdf convertor added more pages">
+    <list default="true" id="cd03f829-6b43-4bb8-ae85-cf826b4d68b3" name="Changes" comment="pdf convertor added footer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output.pdf" afterDir="false" />
@@ -126,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712903044598</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pdf convertor added footer">
+      <option name="closed" value="true" />
+      <created>1712904234322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712904234322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,6 +142,7 @@
     <MESSAGE value="pdf convertor added color" />
     <MESSAGE value="pdf convertor added line" />
     <MESSAGE value="pdf convertor added more pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="pdf convertor added more pages" />
+    <MESSAGE value="pdf convertor added footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdf convertor added footer" />
   </component>
 </project>
