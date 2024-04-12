@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd03f829-6b43-4bb8-ae85-cf826b4d68b3" name="Changes" comment="pdf convertor initial">
+    <list default="true" id="cd03f829-6b43-4bb8-ae85-cf826b4d68b3" name="Changes" comment="pdf convertor added color">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output.pdf" afterDir="false" />
@@ -102,11 +102,20 @@
       <option name="project" value="LOCAL" />
       <updated>1712411653062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pdf convertor added color">
+      <option name="closed" value="true" />
+      <created>1712901021483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712901021483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pdf convertor initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="pdf convertor initial" />
+    <MESSAGE value="pdf convertor added color" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdf convertor added color" />
   </component>
 </project>
