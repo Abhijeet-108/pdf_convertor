@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd03f829-6b43-4bb8-ae85-cf826b4d68b3" name="Changes" comment="pdf convertor added footer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cd03f829-6b43-4bb8-ae85-cf826b4d68b3" name="Changes" comment="pdf convertor added line">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/output.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,15 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712904234322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="pdf convertor added line">
+      <option name="closed" value="true" />
+      <created>1712938896000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712938896000</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pdf convertor initial" />
     <MESSAGE value="pdf convertor added color" />
-    <MESSAGE value="pdf convertor added line" />
     <MESSAGE value="pdf convertor added more pages" />
     <MESSAGE value="pdf convertor added footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="pdf convertor added footer" />
+    <MESSAGE value="pdf convertor added line" />
+    <option name="LAST_COMMIT_MESSAGE" value="pdf convertor added line" />
   </component>
 </project>

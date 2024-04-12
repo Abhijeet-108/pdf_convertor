@@ -36,7 +36,4 @@ for index,row in df.iterrows():
         for i in range(20, 298, 10):
             pdf.line(10, i, 200, i)
 
-
-
-
 pdf.output("output.pdf")
